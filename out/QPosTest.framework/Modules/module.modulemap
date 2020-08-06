@@ -1,0 +1,6 @@
+framework module QPosTest {
+  umbrella header "QPosTest.h"
+
+  export *
+  module * { export * }
+}
